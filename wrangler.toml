@@ -4,4 +4,4 @@ compatibility_date = "2026-01-01"
 
 [[services]]
 binding = "TYPLI_API"
-service = "typli-2api-cfwork-pay"
+service = "typli-2api-cfwork-pay-"
